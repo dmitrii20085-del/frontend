@@ -1,0 +1,14 @@
+div {
+    padding: 50px;
+    margin: 50px;
+}
+
+.pd {
+    padding: 50px;
+    margin: 50px;
+    position: sticky;
+    right: 300px;
+    display: flex;
+    flex-direction: column;
+
+}
